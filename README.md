@@ -1,5 +1,6 @@
 # Boosting Kidney Stone Identification in Endoscopic Images Using Two-Step Transfer Learning
 
+
 This repository has the code to implement the methods described in the conference article: [*Boosting Kidney Stone Identification in Endoscopic Images Using Two-Step Transfer Learning*](https://arxiv.org/pdf/2210.13654), developed as part of the project [*"RECONDITE: Deep learning and image analysis methods for improving the endoscopic identification of kidney stones composition"*](https://www.researchgate.net/project/RECONDITE-Deep-learning-and-image-analysis-methods-for-improving-the-endoscopic-identification-of-kidney-stones-composition) at [Tecnologico de Monterrey](https://tec.mx/en) and [Université de Lorraine](http://www.univ-lorraine.fr). 
 
 
