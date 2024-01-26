@@ -27,7 +27,7 @@ No additional content directories are declared.
 
 Code for algorithms, applications and tools contributed by:
 
-[Francisco Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Juan Pablo Betancur-Rengifo, Arturo Ruiz-Sanchez, [Ivan Reyes-Amezcua](https://scholar.google.com/citations?user=wTvmLOcAAAAJ&hl=en&oi=ao), Jonathan El-Beze, Jacques Hubert, Michel Daudon, [Gilberto Ochoa](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en&authuser=1), [Christian Daul](https://scholar.google.com/citations?user=XPH6u74AAAAJ&hl=en&authuser=1)
+[Francisco Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Juan Pablo Betancur-Rengifo
 
 Please email us your comments, criticism, and questions at [`gilberto.ochoa@tec.mx`](mailto:gilberto.ochoa@tec.mx?subject=[GitHub]%20ks-baseline%20repository)
 
@@ -36,13 +36,15 @@ Please email us your comments, criticism, and questions at [`gilberto.ochoa@tec.
 
 If you use functions from this script in your work, please use the BibTex entry below for citation.
 
-[[ArXiv]](https://arxiv.org/pdf/2210.13654)
+[[ArXiv]](https://arxiv.org/pdf/2210.13654) [[Paper]]([https://arxiv.org/pdf/2210.13654](https://link.springer.com/chapter/10.1007/978-3-031-47640-2_11))
 
 ```
-@article{lopez2022boosting,
-  title={Boosting Kidney Stone Identification in Endoscopic Images Using Two-Step Transfer Learning},
-  author={Lopez-Tiro, Francisco and Betancur-Rengifo, Juan Pablo and Ruiz-Sanchez, Arturo and Reyes-Amezcua, Ivan and El-Beze, Jonathan and Hubert, Jacques and Daudon, Michel and Ochoa-Ruiz, Gilberto and Daul, Christian},
-  journal={arXiv preprint arXiv:2210.13654},
-  year={2022}
+@inproceedings{lopez2023boosting,
+  title={Boosting kidney stone identification in endoscopic images using two-step transfer learning},
+  author={Lopez-Tiro, Francisco and Flores-Araiza, Daniel and Betancur-Rengifo, Juan Pablo and Reyes-Amezcua, Ivan and Hubert, Jacques and Ochoa-Ruiz, Gilberto and Daul, Christian},
+  booktitle={Mexican International Conference on Artificial Intelligence},
+  pages={131--141},
+  year={2023},
+  organization={Springer}
 }
 ```
